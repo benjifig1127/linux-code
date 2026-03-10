@@ -1,3 +1,6 @@
+export VISUAL="vim"
+export EDITOR="vim"
+
 alias ccmake="~/./codecrafters-shell-cpp/your_program.sh"
 alias gcom="git commit -am"
 alias gpf="git push"
