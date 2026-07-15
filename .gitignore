@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Python / mtgmodern project
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+# Cached raw event JSON (large, re-fetchable). Processed CSVs are kept.
+data/raw/

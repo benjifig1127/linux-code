@@ -1,0 +1,2745 @@
+{
+ "event_id": "12847089",
+ "description": "Modern Showcase Challenge",
+ "starttime": "2026-07-12 15:00:00.0",
+ "format": "CMODERN",
+ "type": "TOURNAMENT",
+ "inplayoffs": "1",
+ "url": "https://www.mtgo.com/premier-play-mocs-challenges-and-lces",
+ "site_name": "modern-showcase-challenge-2026-07-1212847089",
+ "decklists": [
+  {
+   "loginid": "5694",
+   "tournamentid": "12847089",
+   "decktournamentid": "58597895",
+   "player": "bobthedog",
+   "main_deck": [
+    {
+     "decktournamentid": "58597895",
+     "docid": "90523",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90523",
+      "card_name": "Archon of Cruelty",
+      "cost": "8",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "126517",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126517",
+      "card_name": "Boggart Trawler",
+      "cost": "3",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "90525",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90525",
+      "card_name": "Bone Shards",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "146985",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "146985",
+      "card_name": "Deceit",
+      "cost": "6",
+      "rarity": "MYTHIC",
+      "color": "MULTICOLORED",
+      "cardset": "ECL",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK",
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "88617",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "88617",
+      "card_name": "Eyetwitch",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "STX",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "126207",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126207",
+      "card_name": "Flare of Malice",
+      "cost": "4",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH3",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "130357",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "130357",
+      "card_name": "Overlord of the Balemurk",
+      "cost": "5",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "DSK",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "90565",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90565",
+      "card_name": "Persist",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "68403",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "68403",
+      "card_name": "Stitcher's Supplier",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "M19",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "23592",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "23592",
+      "card_name": "Overgrown Tomb",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "RAV",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "112132",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "112132",
+      "card_name": "Troll of Khazad-d\u00fbm",
+      "cost": "6",
+      "rarity": "COMMON",
+      "color": "BLACK",
+      "cardset": "LTR",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "121450",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "121450",
+      "card_name": "Underground Mortuary",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MKM",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "34592",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "34592",
+      "card_name": "Crypt of Agadeem",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "ZEN",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "299",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "299",
+      "card_name": "Swamp",
+      "cost": "0",
+      "rarity": "BASIC_LAND",
+      "color": "COLORLESS",
+      "cardset": "PRM",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "34704",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "34704",
+      "card_name": "Verdant Catacombs",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "ZEN",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "62689",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "62689",
+      "card_name": "Fatal Push",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "AER",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "126479",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126479",
+      "card_name": "Spymaster's Vault",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "112116",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "112116",
+      "card_name": "Orcish Bowmasters",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "LTR",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "126017",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126017",
+      "card_name": "Phyrexian Tower",
+      "cost": "0",
+      "rarity": "MYTHIC",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "28269",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "28269",
+      "card_name": "Thoughtseize",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "LRW",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "126569",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126569",
+      "card_name": "Revitalizing Repast",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "MULTICOLORED",
+      "cardset": "MH3",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK",
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "85096",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "85096",
+      "card_name": "Victimize",
+      "cost": "3",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "CMR",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "88623",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "88623",
+      "card_name": "Hunt for Specimens",
+      "cost": "2",
+      "rarity": "COMMON",
+      "color": "BLACK",
+      "cardset": "STX",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "126197",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126197",
+      "card_name": "Emperor of Bones",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    }
+   ],
+   "sideboard_deck": [
+    {
+     "decktournamentid": "58597895",
+     "docid": "90535",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90535",
+      "card_name": "Dauthi Voidwalker",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "150083",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "150083",
+      "card_name": "Decorum Dissertation",
+      "cost": "5",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "SOS",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "28269",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "28269",
+      "card_name": "Thoughtseize",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "LRW",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "72556",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "72556",
+      "card_name": "Force of Despair",
+      "cost": "3",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH1",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "144860",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "144860",
+      "card_name": "Origin of Metalbending",
+      "cost": "2",
+      "rarity": "COMMON",
+      "color": "GREEN",
+      "cardset": "TLA",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "144718",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "144718",
+      "card_name": "Ruinous Waterbending",
+      "cost": "3",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "TLA",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "144884",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "144884",
+      "card_name": "True Ancestry",
+      "cost": "2",
+      "rarity": "UNCOMMON",
+      "color": "GREEN",
+      "cardset": "TLA",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "62689",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "62689",
+      "card_name": "Fatal Push",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "AER",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "293",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "293",
+      "card_name": "Forest",
+      "cost": "0",
+      "rarity": "BASIC_LAND",
+      "color": "COLORLESS",
+      "cardset": "PRM",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597895",
+     "docid": "88851",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "88851",
+      "card_name": "Culling Ritual",
+      "cost": "4",
+      "rarity": "RARE",
+      "color": "MULTICOLORED",
+      "cardset": "STX",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK",
+       "COLOR_GREEN"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "loginid": "57491",
+   "tournamentid": "12847089",
+   "decktournamentid": "58597627",
+   "player": "Edel",
+   "main_deck": [
+    {
+     "decktournamentid": "58597627",
+     "docid": "123791",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "123791",
+      "card_name": "Slickshot Show-Off",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "RED",
+      "cardset": "OTJ",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "90615",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90615",
+      "card_name": "Dragon's Rage Channeler",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "RED",
+      "cardset": "MH2",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "23739",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "23739",
+      "card_name": "Steam Vents",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "GPT",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "37240",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "37240",
+      "card_name": "Lightning Bolt",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "RED",
+      "cardset": "M11",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "139159",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "139159",
+      "card_name": "Cori-Steel Cutter",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "RED",
+      "cardset": "TDM",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "90889",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90889",
+      "card_name": "Scalding Tarn",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH2",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "126491",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126491",
+      "card_name": "Wooded Foothills",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "72640",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "72640",
+      "card_name": "Lava Dart",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "RED",
+      "cardset": "MH1",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "37388",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "37388",
+      "card_name": "Preordain",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "BLUE",
+      "cardset": "M11",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "88879",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "88879",
+      "card_name": "Expressive Iteration",
+      "cost": "2",
+      "rarity": "UNCOMMON",
+      "color": "MULTICOLORED",
+      "cardset": "STX",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLUE",
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "112460",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "112460",
+      "card_name": "Island",
+      "cost": "0",
+      "rarity": "BASIC_LAND",
+      "color": "COLORLESS",
+      "cardset": "LTR",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "54198",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "54198",
+      "card_name": "Bloodstained Mire",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "KTK",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "24821",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "24821",
+      "card_name": "Mishra's Bauble",
+      "cost": "0",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "CSP",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "112468",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "112468",
+      "card_name": "Mountain",
+      "cost": "0",
+      "rarity": "BASIC_LAND",
+      "color": "COLORLESS",
+      "cardset": "LTR",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "54108",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "54108",
+      "card_name": "Monastery Swiftspear",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "RED",
+      "cardset": "KTK",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "72848",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "72848",
+      "card_name": "Fiery Islet",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH1",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "122030",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "122030",
+      "card_name": "Thundering Falls",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MKM",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "130459",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "130459",
+      "card_name": "Violent Urge",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "RED",
+      "cardset": "DSK",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "40000",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "40000",
+      "card_name": "Mutagenic Growth",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "GREEN",
+      "cardset": "NPH",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "129395",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "129395",
+      "card_name": "Stormchaser's Talent",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "BLUE",
+      "cardset": "BLB",
+      "card_type": "ENCHMT",
+      "colors": [
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "144570",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "144570",
+      "card_name": "Boomerang Basics",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLUE",
+      "cardset": "TLA",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "72890",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "72890",
+      "card_name": "Wooded Foothills",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "PRM",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "130460",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "130460",
+      "card_name": "Violent Urge",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "RED",
+      "cardset": "DSK",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    }
+   ],
+   "sideboard_deck": [
+    {
+     "decktournamentid": "58597627",
+     "docid": "125975",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "125975",
+      "card_name": "Meltdown",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "RED",
+      "cardset": "MH3",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "126125",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126125",
+      "card_name": "Consign to Memory",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLUE",
+      "cardset": "MH3",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "90667",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90667",
+      "card_name": "Unholy Heat",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "RED",
+      "cardset": "MH2",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "64388",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "64388",
+      "card_name": "Spell Pierce",
+      "cost": "1",
+      "rarity": "BONUS",
+      "color": "BLUE",
+      "cardset": "MS3",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "24113",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "24113",
+      "card_name": "Spell Snare",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLUE",
+      "cardset": "DIS",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLUE"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "141209",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "141209",
+      "card_name": "Fire Magic",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "RED",
+      "cardset": "FIN",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_RED"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "57338",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "57338",
+      "card_name": "Surgical Extraction",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MM2",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597627",
+     "docid": "26033",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "26033",
+      "card_name": "Tormod's Crypt",
+      "cost": "0",
+      "rarity": "BONUS",
+      "color": "COLORLESS",
+      "cardset": "TSB",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "loginid": "181637",
+   "tournamentid": "12847089",
+   "decktournamentid": "58597851",
+   "player": "Boin",
+   "main_deck": [
+    {
+     "decktournamentid": "58597851",
+     "docid": "78628",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "78628",
+      "card_name": "Castle Locthwain",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "ELD",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "13589",
+     "ptc": "0",
+     "qty": "13",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "13589",
+      "card_name": "Swamp",
+      "cost": "0",
+      "rarity": "BASIC_LAND",
+      "color": "COLORLESS",
+      "cardset": "MM",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "119498",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "119498",
+      "card_name": "Orcish Bowmasters",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "LTR",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "102690",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "102690",
+      "card_name": "Sheoldred, the Apocalypse",
+      "cost": "4",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "DMU",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "126517",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126517",
+      "card_name": "Boggart Trawler",
+      "cost": "3",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "126521",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126521",
+      "card_name": "Fell the Profane",
+      "cost": "4",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "MH3",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "36360",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "36360",
+      "card_name": "Inquisition of Kozilek",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "ROE",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "126221",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126221",
+      "card_name": "Necrodominance",
+      "cost": "3",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "MH3",
+      "card_type": "ENCHMT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "24601",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "24601",
+      "card_name": "Soul Spike",
+      "cost": "7",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "CSP",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "62689",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "62689",
+      "card_name": "Fatal Push",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "AER",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "97146",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "97146",
+      "card_name": "March of Wretched Sorrow",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "NEO",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "50256",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "50256",
+      "card_name": "Thoughtseize",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "THS",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "72556",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "72556",
+      "card_name": "Force of Despair",
+      "cost": "3",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH1",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "91067",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "91067",
+      "card_name": "Dauthi Voidwalker",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "106431",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "106431",
+      "card_name": "Sheoldred's Edict",
+      "cost": "2",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "ONE",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    }
+   ],
+   "sideboard_deck": [
+    {
+     "decktournamentid": "58597851",
+     "docid": "90527",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90527",
+      "card_name": "Break the Ice",
+      "cost": "2",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "93186",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "93186",
+      "card_name": "The Meathook Massacre",
+      "cost": "2",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "MID",
+      "card_type": "ENCHMT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "90577",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90577",
+      "card_name": "Tourach, Dread Cantor",
+      "cost": "2",
+      "rarity": "MYTHIC",
+      "color": "BLACK",
+      "cardset": "MH2",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "37376",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "37376",
+      "card_name": "Leyline of the Void",
+      "cost": "4",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "M11",
+      "card_type": "ENCHMT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "81459",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "81459",
+      "card_name": "Necromentia",
+      "cost": "3",
+      "rarity": "RARE",
+      "color": "BLACK",
+      "cardset": "M21",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597851",
+     "docid": "106431",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "106431",
+      "card_name": "Sheoldred's Edict",
+      "cost": "2",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "ONE",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "loginid": "315547",
+   "tournamentid": "12847089",
+   "decktournamentid": "58597827",
+   "player": "bunnyfat",
+   "main_deck": [
+    {
+     "decktournamentid": "58597827",
+     "docid": "96848",
+     "ptc": "0",
+     "qty": "6",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "96848",
+      "card_name": "Forest",
+      "cost": "0",
+      "rarity": "BASIC_LAND",
+      "color": "COLORLESS",
+      "cardset": "NEO",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "127223",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "127223",
+      "card_name": "Eldrazi Temple",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "M3C",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "79598",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "79598",
+      "card_name": "Soul-Guide Lantern",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "THB",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "119000",
+     "ptc": "0",
+     "qty": "3",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "119000",
+      "card_name": "Blade of the Bloodchief",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "LCC",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "19683",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "19683",
+      "card_name": "Talisman of Impulse",
+      "cost": "2",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "MRD",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126357",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126357",
+      "card_name": "Sowing Mycospawn",
+      "cost": "4",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "134946",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "134946",
+      "card_name": "Emrakul, the Promised End",
+      "cost": "13",
+      "rarity": "MYTHIC",
+      "color": "COLORLESS",
+      "cardset": "INR",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "36374",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "36374",
+      "card_name": "Ancient Stirrings",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "GREEN",
+      "cardset": "ROE",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "51871",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "51871",
+      "card_name": "Springleaf Drum",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "BNG",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "90899",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "90899",
+      "card_name": "Urza's Saga",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH2",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "97482",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "97482",
+      "card_name": "Boseiju, Who Endures",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "NEO",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "105018",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "105018",
+      "card_name": "Haywire Mite",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "BRO",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126307",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126307",
+      "card_name": "Basking Broodscale",
+      "cost": "2",
+      "rarity": "COMMON",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126339",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126339",
+      "card_name": "Malevolent Rumble",
+      "cost": "2",
+      "rarity": "COMMON",
+      "color": "GREEN",
+      "cardset": "MH3",
+      "card_type": "SORCRY",
+      "colors": [
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126443",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126443",
+      "card_name": "Vexing Bauble",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126475",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126475",
+      "card_name": "Shifting Woodland",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126485",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126485",
+      "card_name": "Ugin's Labyrinth",
+      "cost": "0",
+      "rarity": "MYTHIC",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126039",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126039",
+      "card_name": "Kozilek's Command",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126031",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126031",
+      "card_name": "Glaring Fleshraker",
+      "cost": "3",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126021",
+     "ptc": "0",
+     "qty": "4",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126021",
+      "card_name": "Devourer of Destiny",
+      "cost": "7",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "133570",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "133570",
+      "card_name": "Sire of Seven Deaths",
+      "cost": "7",
+      "rarity": "MYTHIC",
+      "color": "COLORLESS",
+      "cardset": "FDN",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "26710",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "26710",
+      "card_name": "Grove of the Burnwillows",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "FUT",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "44245",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "false",
+     "card_attributes": {
+      "digitalobjectcatalogid": "44245",
+      "card_name": "Cavern of Souls",
+      "cost": "0",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "AVR",
+      "card_type": "LAND  ",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    }
+   ],
+   "sideboard_deck": [
+    {
+     "decktournamentid": "58597827",
+     "docid": "57330",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "57330",
+      "card_name": "Dismember",
+      "cost": "3",
+      "rarity": "UNCOMMON",
+      "color": "BLACK",
+      "cardset": "MM2",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_BLACK"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "20491",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "20491",
+      "card_name": "Trinisphere",
+      "cost": "3",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "DST",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126443",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126443",
+      "card_name": "Vexing Bauble",
+      "cost": "1",
+      "rarity": "UNCOMMON",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "63349",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "63349",
+      "card_name": "Grafdigger's Cage",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MM3",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "35699",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "35699",
+      "card_name": "Nature's Claim",
+      "cost": "1",
+      "rarity": "COMMON",
+      "color": "GREEN",
+      "cardset": "WWK",
+      "card_type": "INSTNT",
+      "colors": [
+       "COLOR_GREEN"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "22046",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "22046",
+      "card_name": "Pithing Needle",
+      "cost": "1",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "SOK",
+      "card_type": "ARTFCT",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126357",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126357",
+      "card_name": "Sowing Mycospawn",
+      "cost": "4",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "106697",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "106697",
+      "card_name": "Soulless Jailer",
+      "cost": "2",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "ONE",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "126365",
+     "ptc": "0",
+     "qty": "2",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "126365",
+      "card_name": "Thief of Existence",
+      "cost": "3",
+      "rarity": "RARE",
+      "color": "COLORLESS",
+      "cardset": "MH3",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    },
+    {
+     "decktournamentid": "58597827",
+     "docid": "134946",
+     "ptc": "0",
+     "qty": "1",
+     "sideboard": "true",
+     "card_attributes": {
+      "digitalobjectcatalogid": "134946",
+      "card_name": "Emrakul, the Promised End",
+      "cost": "13",
+      "rarity": "MYTHIC",
+      "color": "COLORLESS",
+      "cardset": "INR",
+      "card_type": "ISCREA",
+      "colors": [
+       "COLOR_COLORLESS"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "brackets": [
+  {
+   "matches": [
+    {
+     "players": [
+      {
+       "loginid": 2114194,
+       "player": "Oscar_Franco",
+       "seeding": 5,
+       "wins": 0,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 1049119,
+       "player": "BERNASTORRES",
+       "seeding": 4,
+       "wins": 2,
+       "losses": 0,
+       "winner": true
+      }
+     ]
+    },
+    {
+     "players": [
+      {
+       "loginid": 2405278,
+       "player": "chengyiw",
+       "seeding": 7,
+       "wins": 0,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 1182549,
+       "player": "Fatone",
+       "seeding": 2,
+       "wins": 2,
+       "losses": 0,
+       "winner": true
+      }
+     ]
+    },
+    {
+     "players": [
+      {
+       "loginid": 2916560,
+       "player": "wutey",
+       "seeding": 8,
+       "wins": 0,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 1721886,
+       "player": "albybale93",
+       "seeding": 1,
+       "wins": 2,
+       "losses": 0,
+       "winner": true
+      }
+     ]
+    },
+    {
+     "players": [
+      {
+       "loginid": 2726945,
+       "player": "MadMaxErnst",
+       "seeding": 6,
+       "wins": 0,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 2013138,
+       "player": "bomberboss",
+       "seeding": 3,
+       "wins": 2,
+       "losses": 0,
+       "winner": true
+      }
+     ]
+    }
+   ],
+   "index": 2
+  },
+  {
+   "matches": [
+    {
+     "players": [
+      {
+       "loginid": 1049119,
+       "player": "BERNASTORRES",
+       "seeding": 4,
+       "wins": 1,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 1182549,
+       "player": "Fatone",
+       "seeding": 1,
+       "wins": 2,
+       "losses": 1,
+       "winner": true
+      }
+     ]
+    },
+    {
+     "players": [
+      {
+       "loginid": 1721886,
+       "player": "albybale93",
+       "seeding": 3,
+       "wins": 1,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 2013138,
+       "player": "bomberboss",
+       "seeding": 2,
+       "wins": 2,
+       "losses": 1,
+       "winner": true
+      }
+     ]
+    }
+   ],
+   "index": 1
+  },
+  {
+   "matches": [
+    {
+     "players": [
+      {
+       "loginid": 2013138,
+       "player": "bomberboss",
+       "seeding": 2,
+       "wins": 0,
+       "losses": 2,
+       "winner": false
+      },
+      {
+       "loginid": 1182549,
+       "player": "Fatone",
+       "seeding": 1,
+       "wins": 2,
+       "losses": 0,
+       "winner": true
+      }
+     ]
+    }
+   ],
+   "index": 0
+  }
+ ],
+ "standings": [
+  {
+   "tournamentid": "12847089",
+   "loginid": "5694",
+   "login_name": "bobthedog",
+   "rank": "30",
+   "score": "21",
+   "opponentmatchwinpercentage": "0.61298",
+   "gamewinpercentage": "0.62500",
+   "opponentgamewinpercentage": "0.54910",
+   "eliminated": "true"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "57491",
+   "login_name": "Edel",
+   "rank": "18",
+   "score": "24",
+   "opponentmatchwinpercentage": "0.57381",
+   "gamewinpercentage": "0.61538",
+   "opponentgamewinpercentage": "0.52133",
+   "eliminated": "true"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "181637",
+   "login_name": "Boin",
+   "rank": "31",
+   "score": "21",
+   "opponentmatchwinpercentage": "0.61048",
+   "gamewinpercentage": "0.65385",
+   "opponentgamewinpercentage": "0.58063",
+   "eliminated": "true"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "315547",
+   "login_name": "bunnyfat",
+   "rank": "16",
+   "score": "24",
+   "opponentmatchwinpercentage": "0.58667",
+   "gamewinpercentage": "0.68000",
+   "opponentgamewinpercentage": "0.53247",
+   "eliminated": "true"
+  }
+ ],
+ "winloss": [
+  {
+   "tournamentid": "12847089",
+   "loginid": "315547",
+   "losses": "2",
+   "wins": "8"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "5694",
+   "losses": "3",
+   "wins": "7"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "57491",
+   "losses": "2",
+   "wins": "8"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "181637",
+   "losses": "3",
+   "wins": "7"
+  }
+ ],
+ "final_rank": [
+  {
+   "tournamentid": "12847089",
+   "loginid": "1182549",
+   "rank": "1",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2013138",
+   "rank": "2",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "1721886",
+   "rank": "3",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "1049119",
+   "rank": "4",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2114194",
+   "rank": "5",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2726945",
+   "rank": "6",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2405278",
+   "rank": "7",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2916560",
+   "rank": "8",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2645807",
+   "rank": "9",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2720046",
+   "rank": "10",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "913552",
+   "rank": "11",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2877542",
+   "rank": "12",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2663804",
+   "rank": "13",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "1089456",
+   "rank": "14",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "3354238",
+   "rank": "15",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "315547",
+   "rank": "16",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2103820",
+   "rank": "17",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "57491",
+   "rank": "18",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2962410",
+   "rank": "19",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2698605",
+   "rank": "20",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "1950258",
+   "rank": "21",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "3062797",
+   "rank": "22",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2702142",
+   "rank": "23",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "3181438",
+   "rank": "24",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "1712831",
+   "rank": "25",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "3457134",
+   "rank": "26",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "3184741",
+   "rank": "27",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "3106168",
+   "rank": "28",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "2631782",
+   "rank": "29",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "5694",
+   "rank": "30",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "181637",
+   "rank": "31",
+   "roundnumber": "13"
+  },
+  {
+   "tournamentid": "12847089",
+   "loginid": "680852",
+   "rank": "32",
+   "roundnumber": "13"
+  }
+ ],
+ "player_count": {
+  "tournamentid": "12847089",
+  "players": "448",
+  "queued_players": "448"
+ }
+}
